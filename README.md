@@ -1,5 +1,5 @@
 # Cash-And-Carry-DataAnalysis
-This repository includes one notebook and the corresponding data sets. This notebook is the first of three notebooks created for this project. The other two notebooks are not included in the Repository as their content is more about the creation of a recommender system and less about the Data Analysis.
+This repository includes one notebook and the corresponding data sets. The content was not created in this repository originally. This notebook is the first of three notebooks created for this project. The other two notebooks are not included in the Repository as their content is more about the creation of a recommender system and less about the Data Analysis.
 
 This notebook was part of a project for the course of my Master in Data Science and Advanced Analytics at Nova IMS University. It was originally part of an actual Business Case, so it included real data from a real Cash and Carry brand. As this data is confidential and was only used in the university course, the data shown in this notebook has been anonymized, including dummy values and non-identifiable and randomly created IDs. The name of the Cash and Carry brand is also kept anonymous, so the name used in this notebook, CAC1, is a fictional name with no connection to any real brand intended.
 
